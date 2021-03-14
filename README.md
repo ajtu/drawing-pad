@@ -1,4 +1,4 @@
 Drawing Pad with UIBezierPath  
 
-<img src="drawing.gif" width="250">
+<img src="drawing.gif" width="350">
 
